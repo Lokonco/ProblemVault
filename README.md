@@ -21,22 +21,16 @@ A collection of practice problems to improve **coding**, **algorithmic thinking*
 
 ---
 
-## 💻 Coding Problems
-
-Problems from popular coding platforms with difficulty badges.  
+## Problem Sources
 
 ### LeetCode
-- [Easy]  
-- [Medium]  
-- [Hard]  
-
-### HackerRank
-- [Easy]  
-- [Medium]  
-- [Hard]  
 
 ### Kattis
-- Problems organized by category  
+
+### HackerRank
+
+### LeetPhys(Not a good site but the problems are good)
+
 
 ---
 
