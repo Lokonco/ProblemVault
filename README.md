@@ -4,15 +4,15 @@ A collection of practice problems to improve **coding**, **algorithmic thinking*
 
 ---
 
-## Problem Sources
+# Problem Sources
 
-### LeetCode
+## [LeetCode](https://github.com/Lokonco/ProblemVault/tree/main/LeetCode)
 
-### Kattis
+## Kattis
 
-### HackerRank
+## HackerRank
 
-### Physics questions were found online randomly.
+## Physics questions were found online randomly.
 ---
 
 ## ⚛️ Physics Problems
