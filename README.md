@@ -12,12 +12,11 @@ A collection of practice problems to improve **coding**, **algorithmic thinking*
 
 ## HackerRank
 
-## Physics questions were found online randomly.
----
+## LeetPhys(bad site / okay problems )
 
-## ⚛️ Physics Problems
-
-Organized by topic and difficulty:
+## Text Book - 
+(Physics for Scientists & Engineers with Modern Physics
+by Douglas C. Giancoli)
 
 ---
 
